@@ -1,4 +1,4 @@
-version: "2"
+version: "3"
 services:
   rabbit_node_1:
     image: "rabbitmq:management"
